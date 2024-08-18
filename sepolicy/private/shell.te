@@ -1,2 +1,0 @@
-# Allow shell to disable PIHooks
-set_prop(shell, pih_disable_prop)
