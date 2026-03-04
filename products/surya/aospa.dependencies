@@ -1,9 +1,9 @@
 [
     {
         "remote":       "github",
-        "repository":   "rd-stuffs/android_device_xiaomi_surya",
+        "repository":   "fannndi/android_device_xiaomi_surya",
         "target_path":  "device/xiaomi/surya",
-        "revision":     "topaz"
+        "revision":     "aospa-t"
     },
     {
         "remote":       "github",
@@ -43,7 +43,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "rd-stuffs/msm-4.14",
+        "repository":   "fannndi/aospa",
         "target_path":  "kernel/msm-4.14",
         "revision":     "main"
     },
